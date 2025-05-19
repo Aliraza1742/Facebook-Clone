@@ -1,4 +1,4 @@
-```markdown
+
 # 📘 Facebook GUI Clone in Python (Tkinter)
 
 This project is a **Facebook-style graphical user interface (GUI)** desktop application built using **Python and Tkinter**. It simulates basic functionalities such as **user registration (signup), login, profile display, and password recovery** in a clean and beginner-friendly interface.
@@ -107,4 +107,4 @@ Feel free to fork and submit pull requests to enhance the UI, add encryption, or
 
 **Ali Raza**  
 Feel free to connect via GitHub or LinkedIn!
-```
+
