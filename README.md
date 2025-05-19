@@ -99,8 +99,3 @@ Make sure you're using **Python 3.12+**.
 
 
 
-## 🙋‍♂️ Author
-
-**Ali Raza**  
-Feel free to connect via GitHub or LinkedIn!
-
