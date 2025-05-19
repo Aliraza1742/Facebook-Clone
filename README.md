@@ -95,11 +95,7 @@ Make sure you're using **Python 3.12+**.
 
 ---
 
-## 🤝 Contribution
 
-Feel free to fork and submit pull requests to enhance the UI, add encryption, or refactor logic.
-
----
 
 
 
